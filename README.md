@@ -1,1 +1,1 @@
-# uganda-ebola-faqs
+# Uganda Ebola FAQs
