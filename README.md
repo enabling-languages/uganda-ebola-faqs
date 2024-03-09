@@ -8,5 +8,5 @@
 <p>https://medicine.yale.edu/internal-medicine/global/sites/uganda/</p>
 <p>https://www.who.int/</p>
 
-
+<p>Relatedly, FAQ translations that were produced for outbreaks of ebolavirus in Guinea, Liberia, Sierra Leone, and the Democratic Republic of Congo prior to 2022 under the auspices of Athinkra, LLC may be found at: https://github.com/athinkra/EbolaFAQs/tree/main.</p>
 
